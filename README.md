@@ -1,3 +1,4 @@
+![logo](https://github.com/engr-ikhlaq/engr-ikhlaq/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png) 
 <h1 align="center">Hi 😊, I'm engr ikhlaq wahid.</h1>
 <h3 align="center">A passionate Machine learning engineer with positive solutions from pakistan</h3>
 
