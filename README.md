@@ -1,5 +1,4 @@
 ![logo](https://github.com/engr-ikhlaq/engr-ikhlaq/blob/main/MY%20BANNER.png)
-![logo](https://github.com/engr-ikhlaq/engr-ikhlaq/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Engr. Engr. Ikhlaq Wahid</h1>
 <h3 align="center">👨‍💻 Data Scientist | 🤖 Machine Learning Engineer | 🧠 AI Researcher | 🏆 Kaggle Grandmaster | 🌐 Bridging the Gap Between Data and Decisions | 💡 Turning Ideas into Predictive Models</h3>
 
