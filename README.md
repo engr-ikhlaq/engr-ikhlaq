@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/engr-mubashir-hussain-474071188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engr-mubashir-hussain-474071188" height="30" width="40" /></a>
 <a href="https://kaggle.com/ourfuture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ourfuture" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCpY7qVfYJ2OllRH201u9TiA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpy7qvfyj2ollrh201u9tia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@positivetechsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpy7qvfyj2ollrh201u9tia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
