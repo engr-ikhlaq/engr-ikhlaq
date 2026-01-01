@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **ikhlaqwahid2003@gmail.com** For Collaboration/Project or 
 
 Stay updated with my latest projects and AI experiments on YouTube and Kaggle.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Engr%20Ikhlaq-red?logo=youtube&logoColor=white)](https://www.youtube.com/@positivetechsolutions) [![Kaggle](https://img.shields.io/badge/Kaggle-Engr%20Ikhlaq-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrikhlaqwahid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr%20Ikhlaq-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![GitHub](https://img.shields.io/badge/GitHub-Engr%20Ikhlaq-black?logo=github&logoColor=white)](https://github.com/engr-ikhlaq)
+[![YouTube](https://img.shields.io/badge/YouTube-Engr%20Ikhlaq-red?logo=youtube&logoColor=white)](https://www.youtube.com/@positivetechsolutions) [![Kaggle](https://img.shields.io/badge/Kaggle-Engr%20Ikhlaq-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrikhlaqwahid) [![LinkedIn]
 
 ## 💸 Support My Work 🤝	
 
@@ -39,7 +39,7 @@ If you’ve found my content or projects helpful and want to support 💖:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-ikhlaq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=engr-ikhlaq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=engr-ikhlaq&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=engr-ikhlaq&theme=dark&hide_border=true)
 
 <!-- Snake Game Repo View -->
 <div align="center">
