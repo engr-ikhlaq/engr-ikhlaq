@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **ikhlaqwahid2003@gmail.com** For Collaboration/Project or 
 
 Stay updated with my latest projects and AI experiments on YouTube and Kaggle.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Engr%20Ikhlaq-red?logo=youtube&logoColor=white)](https://www.youtube.com/@positivetechsolutions) [![Kaggle](https://img.shields.io/badge/Kaggle-Engr%20Ikhlaq-blue?logo=kaggle&logoColor=white)](https://kaggle.com/ourfuture) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr%20Ikhlaq-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![GitHub](https://img.shields.io/badge/GitHub-Engr%20Ikhlaq-black?logo=github&logoColor=white)](https://github.com/engr-ikhlaq)
+[![YouTube](https://img.shields.io/badge/YouTube-Engr%20Ikhlaq-red?logo=youtube&logoColor=white)](https://www.youtube.com/@positivetechsolutions) [![Kaggle](https://img.shields.io/badge/Kaggle-Engr%20Ikhlaq-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrikhlaqwahid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr%20Ikhlaq-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![GitHub](https://img.shields.io/badge/GitHub-Engr%20Ikhlaq-black?logo=github&logoColor=white)](https://github.com/engr-ikhlaq)
 
 ## 💸 Support My Work 🤝	
 
@@ -47,7 +47,7 @@ If you’ve found my content or projects helpful and want to support 💖:
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?logo=kaggle&logoColor=white)](https://kaggle.com/ourfuture) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@positivetechsolutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrikhlaqwahid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@positivetechsolutions)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
