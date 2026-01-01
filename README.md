@@ -1,81 +1,55 @@
 ![logo](https://github.com/engr-ikhlaq/engr-ikhlaq/blob/main/MY%20BANNER.png)
 
-<h1 align="center">Hi 👋, I'm Engr. Ikhlaq Wahid</h1>
-<h3 align="center">👨‍💻 Data Scientist | 🤖 Machine Learning Engineer | 🧠 AI Researcher | 🏆 Kaggle Grandmaster | 🌐 Bridging the Gap Between Data and Decisions | 💡 Turning Ideas into Predictive Models</h3>
+# 💫 Hi 👋, I'm Engr. Ikhlaq Wahid
+**A passionate Data Scientist || Machine Learning Engineer || AI Researcher | Kaggle Grandmaster**
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif">
-</p>
+Email Me 👉 ✉️ **ikhlaqwahid2003@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=engr-ikhlaq&label=Profile%20views&color=0e75b6&style=flat" alt="engr-ikhlaq" />
-</p>
+## 🔗 I am a Content Creator / Researcher
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engr-ikhlaq" alt="engr-ikhlaq" />
-  </a>
-</p>
+Stay updated with my latest projects and AI experiments on YouTube and Kaggle.
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/>
-  </a>
-</p>
+[![YouTube](https://img.shields.io/badge/YouTube-Engr%20Ikhlaq-red?logo=youtube&logoColor=white)](https://www.youtube.com/@positivetechsolutions) [![Kaggle](https://img.shields.io/badge/Kaggle-Engr%20Ikhlaq-blue?logo=kaggle&logoColor=white)](https://kaggle.com/ourfuture) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr%20Ikhlaq-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![GitHub](https://img.shields.io/badge/GitHub-Engr%20Ikhlaq-black?logo=github&logoColor=white)](https://github.com/engr-ikhlaq)
 
-- 🔭 I’m currently working on *Islam360 Python module*  
-- 🌱 I’m currently learning *Power BI, TensorFlow*  
-- 💬 Ask me about *Data Science | Machine Learning | Artificial Intelligence | Research | Arduino | Raspberry Pi | Controller | IOT Apps*  
-- 📫 How to reach me: *ikhlaqwahid2003@gmail.com*  
-- ⚡ Fun fact: *I once tried to predict the future with machine learning, but my model insisted it was too uncertain about whether I'd finish my morning coffee on time.*
+## 💸 Support My Work 🤝	
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/engr-ikhlaq" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/ourfuture" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@positivetechsolutions" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
+If you’ve found my content or projects helpful and want to support 💖:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#) <!-- Add your link if any -->
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](#) <!-- Add your link if any -->
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](#) <!-- Add your link if any -->
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engr-ikhlaq&show_icons=true&locale=en&layout=compact" alt="engr-ikhlaq" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=engr-ikhlaq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-ikhlaq&show_icons=true&locale=en" alt="engr-ikhlaq" />
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-ikhlaq" alt="engr-ikhlaq" />
-</p>
+# 📊 GitHub Stats:
+
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engr-ikhlaq&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engr-ikhlaq&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engr-ikhlaq&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engr-ikhlaq&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engr-ikhlaq&theme=radical&utcOffset=5">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=engr-ikhlaq&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-ikhlaq&theme=radical">
+</div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-ikhlaq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=engr-ikhlaq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=engr-ikhlaq&theme=dark&hide_border=false)
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ikhlaq) [![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?logo=kaggle&logoColor=white)](https://kaggle.com/ourfuture) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@positivetechsolutions)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
